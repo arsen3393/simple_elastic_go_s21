@@ -1,3 +1,6 @@
+# Мое решение задания из School 21 c использованием Elastic search, Bulk Api
+
+
 # Day 03 — Go Boot camp
 
 ## Tasty Discoveries
