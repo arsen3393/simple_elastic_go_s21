@@ -1,4 +1,4 @@
-# Мое решение задания из School 21 c использованием Elastic search, Bulk Api, http template
+# Мое решение задания из School 21 c использованием Elastic search, Bulk Api, http template, jwt
 
 
 # Day 03 — Go Boot camp
